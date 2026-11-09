@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Joke</string>
+    <string name="question">What is the secret of comedy?</string>
+    <string name="response">Timing!</string>
+    <string name="btn_calificar">Calificar taller</string>
+    <string name="btn_entregar">Entregar tarea</string>
+    <string name="titulo_estudiante">Taller calificado</string>
+    <string name="msg_estudiante">Tu taller de Servicios en Android fue calificado: 4.5</string>
+    <string name="titulo_profesor">Tarea entregada</string>
+    <string name="msg_profesor">Un estudiante entregó la tarea. Ya puedes calificarla.</string>
+</resources>
